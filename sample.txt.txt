@@ -1,3 +1,4 @@
-こんばんは
-サンプルです
-さようなら
+﻿hello-world
+
+It is a general programming language
+I want to understand it
